@@ -1,0 +1,18 @@
+Required packages:
+  Perl: http://www.perl.org/get.html
+  R: http://www.r-project.org/
+  SAMTools: http://samtools.sourceforge.net/
+
+To install perl scripts:
+
+  Download the .zip file from:
+  uznip the file: 
+    > unzip FILE
+  
+
+To test scripts type:
+  > ./test_scripts.sh
+
+
+
+See MANUAL for more help.
